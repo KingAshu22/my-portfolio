@@ -369,6 +369,15 @@ img {
   font-weight: var(--font-medium);
 }
 
+.certificate-button {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  font-weight: var(--font-medium);
+}
+
 .button:hover {
   background-color: var(--first-color-alt);
 }
